@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 
 ---
 
-For issues or feature requests, please open an issue on [GitHub](https://github.com/Ayvem/trading-IA).
+For issues or feature requests, please open an issue on [GitHub](https://github.com/Ayvem/trading-IA/issues).
